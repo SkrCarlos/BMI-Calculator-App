@@ -1,3 +1,3 @@
-# imc_calculator
+# BMI Calculator
 
-A new Flutter project.
+A BMI calculator app built with Flutter
